@@ -1,0 +1,15 @@
+.button-color{
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #79bac1;
+	font-weight: bold;
+}
+.button-blue{
+	background-color: #79bac1;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	margin: 10px;
+	text-align: center;
+}
